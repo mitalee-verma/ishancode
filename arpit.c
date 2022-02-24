@@ -11,6 +11,8 @@ main()
 
     printf("UID-21BCS8916\n");  
 
+    printf("Am changing the source code");
+
     printf("Enter a string.\n");  
 
     scanf("%s",s1); 
