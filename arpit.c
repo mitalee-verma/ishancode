@@ -13,6 +13,8 @@ main()
 
     printf("Am changing the source code");
 
+    printf("change made:- no. 2 ");
+
     printf("Enter a string.\n");  
 
     scanf("%s",s1); 
